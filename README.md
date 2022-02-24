@@ -1,2 +1,2 @@
 # OOP-practice
-Practice code
+Practice code for Object Oriented Programming
